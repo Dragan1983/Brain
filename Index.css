@@ -1,0 +1,40 @@
+*{
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif; 
+  color:#777; 
+}
+
+
+html,body {
+    margin: 0;
+    padding:0;
+}
+
+.nav ul {
+    margin: 0;
+}
+.nav li {
+    display: inline;
+}
+
+.nav a {
+    display: inline;
+    padding:.5em;
+    color:white;
+    text-decoration: none;
+}
+.nav a,hover{
+ background-color:rgb(255,255,255,.3) 
+}
+.main-nav {
+  
+}
+
+.main-header{
+    
+    background-image: url("images/Royalty\ Free\ Background.jpg");
+    background-blend-mode: multiply;
+    background-size: cover;
+    padding-bottom: 30px;
+    
+}
